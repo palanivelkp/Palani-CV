@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://https://raw.githubusercontent.com/palanivelkp/Palani-CV/main/Images/PP%20Photo%202105.jpg)
 
 <!-- Add your details -->
 
